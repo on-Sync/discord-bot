@@ -1,10 +1,11 @@
 const Discord = require('discord.js'),
   Distube = require('distube'),
-  TOKEN = require('./config/token.json'),
   Setup = require('./config/setup.json'),
   Embed = require('./config/embed.json'),
-  ID = TOKEN.ID,
-  prefix = Setup.prefix;
+  prefix = Setup.prefix,
+  dotenv = require('dotenv');
+  dotenv.config(),
+  ID = process.env.TOKEN;
 
 // Create a new Bot
 const bot = new Discord.Client();
