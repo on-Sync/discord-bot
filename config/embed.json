@@ -1,0 +1,65 @@
+{ 
+    "Default" : {
+        "color": "0x0099ff",
+        "title": "Discord.js",
+        "url": "https://discord.gg/YEddJQfp",
+        "author": {
+            "name": "Jack Hwang",
+            "url": "https://discord.gg/YEddJQfp",
+            "icon_url": "https://cdn.discordapp.com/avatars/609949555483738114/bace0346b4065dc902842a419d27825f.webp"
+        },
+        "description": "테스트 봇,",
+        "thumbnail": {
+            "url": "https://cdn.discordapp.com/avatars/609949555483738114/bace0346b4065dc902842a419d27825f.webp"
+        },
+        "fields": [
+            {
+                "name": "1. 자동답변",
+                "value": "인사말, 설명글"
+            },
+            {
+                "name": "2. 음악",
+                "value": "유료기능 추가",
+                "inline": "true"
+            }
+        ],
+        "image": {
+            "url": "https://cdn.discordapp.com/avatars/609949555483738114/bace0346b4065dc902842a419d27825f.webp"
+        },
+        "footer": {
+            "text": "Copyright © On-Sync 2021",
+            "icon_url": "https://cdn.discordapp.com/avatars/609949555483738114/bace0346b4065dc902842a419d27825f.webp"
+        }
+    },
+    "Default2" : {
+        "title": "Discord.js",
+        "url": "https://discord.gg/YEddJQfp",
+        "author": {
+            "name": "Jack Hwang",
+            "url": "https://discord.gg/YEddJQfp",
+            "icon_url": "https://cdn.discordapp.com/avatars/609949555483738114/bace0346b4065dc902842a419d27825f.webp"
+        },
+        "description": "테스트 봇,",
+        "thumbnail": {
+            "url": "https://cdn.discordapp.com/avatars/609949555483738114/bace0346b4065dc902842a419d27825f.webp"
+        },
+        "fields": [
+            {
+                "name": "1. 자동답변",
+                "value": "인사말, 설명글"
+            },
+            {
+                "name": "2. 음악",
+                "value": "유료기능 추가",
+                "inline": "true"
+            }
+        ],
+        "image": {
+            "url": "https://cdn.discordapp.com/avatars/609949555483738114/bace0346b4065dc902842a419d27825f.webp"
+        },
+        "footer": {
+            "text": "Copyright © On-Sync 2021",
+            "icon_url": "https://cdn.discordapp.com/avatars/609949555483738114/bace0346b4065dc902842a419d27825f.webp"
+        }
+    }
+}
